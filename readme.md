@@ -242,7 +242,7 @@
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
- 	- [Resources](https://github.com/DjangoEx/awesome-python-resources) - A list of highly recommended resources for popular Python libraries and frameworks.
+ 	- [Resources](https://github.com/DjangoEx/awesome-python-resources) - A list of highly recommended resources for learning popular Python libraries and frameworks.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
  	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
